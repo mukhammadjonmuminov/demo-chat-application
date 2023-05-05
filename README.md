@@ -5,7 +5,7 @@
     - Hostname: "localhost"
     - Port: 5555
  - #### Global Sever
-    - Hostname: "\****.\*****.\*****.\*****"
+    - Hostname: "\****.\*****.\*****.\**"
     - Port: 5555
 
 
